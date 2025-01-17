@@ -1,0 +1,1 @@
+{"learning_rate": 0.001, "activation": "relu", "optimizer": "sgd", "hidden_layers": 1, "neurons_per_layer": [2], "batch_size": 64, "epochs": 500, "early_stopping": true, "patience": 10}
